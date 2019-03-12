@@ -4,32 +4,58 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Document</title>
+  <title>Travelin</title>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="http://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
   <link rel="stylesheet" href="style.css">
 </head>
 <body id="page--main">
   <nav>
     <div class="container">
-      <div class="nav__brand">AH SHE UP! Travel</div>
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Pricing</a></li>
-        <li><a href="#">Contact Us</a></li>
-      </ul>
+      <div class="nav__brand nav--left"><a href="/">Travelin</a></div>
+      <div class="nav__search nav--right"><button><i class="fas fa-search"></i></button></div>
     </div>
   </nav>
   <div class="slider">
-    <div class="slider__item" style="background-image: url('')"></div>
-    <div class="slider__item" style="background-image: url('')"></div>
+    <div class="slider__item" style="background-image: url('http://static.asiawebdirect.com/m/bangkok/portals/bali-indonesia-com/homepage/magazine/bali-must-see-temples/pagePropertiesImage/bali-temples.jpg.jpg')"></div>
+    <div class="slider__item" style="background-image: url('http://static.asiawebdirect.com/m/bangkok/portals/bali-indonesia-com/homepage/magazine/bali-must-see-temples/pagePropertiesImage/bali-temples.jpg.jpg')"></div>
   </div>
   <div class="content">
-    <div class="content__search">
-      <input type="text" placeholder="Search">
-    </div>
-    <div class="content__list">
-      
+    <div class="container">
+      <div class="content__city">
+        <a href="#" class="content__city__item"><span>Jakarta</span></a>
+        <a href="#" class="content__city__item"><span>Jakarta</span></a>
+        <a href="#" class="content__city__item"><span>Jakarta</span></a>
+        <a href="#" class="content__city__item"><span>Jakarta</span></a>
+      </div>
+      <div class="content__list">
+        <div class="content__list__nav">
+          <div class="content__list__nav--title nav--left">
+            Sugested
+          </div>
+          <div class="content__list__nav--search">
+            <input type="text" placeholder="Search" class="nav--right nav--search--js">
+          </div>
+        </div>
+        <div class="content__list__item--container"></div>
+      </div>
     </div>
   </div>
-  
+  <div class="footer">
+    <div class="container footer--container">
+      <div class="footer__copyright">
+        &copy; Travelin
+      </div>
+      <div class="footer--right">
+        <a href="#">Github Repository</a>
+        <a href="http://justarya.me">JustArya</a>
+      </div>
+    </div>
+  </div>
+
+  <script src="jquery.min.js"></script>
+  <script type="text/javascript" src="http://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+  <script src="index.js"></script>
+  <script src="main.js"></script>
 </body>
 </html>
