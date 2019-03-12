@@ -156,8 +156,6 @@ nav {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   background-color: transparent;
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(40%, rgba(255, 255, 255, 0.8)), to(transparent));
-  background-image: linear-gradient(rgba(255, 255, 255, 0.8) 40%, transparent);
   position: absolute;
   z-index: 99;
 }
@@ -168,13 +166,19 @@ nav .nav__brand {
   font-size: 35px;
 }
 
-nav .nav__search button {
+nav .nav__search a {
+  display: block;
   font-size: 20px;
   padding: 10px;
   border: 0;
   background: transparent;
   outline: 0;
   cursor: pointer;
+}
+
+nav .nav a {
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  color: white;
 }
 
 .card {
@@ -301,6 +305,11 @@ nav .nav__search button {
 #page--hotel nav {
   position: relative;
   background: white;
+}
+
+#page--hotel nav a {
+  color: black;
+  text-shadow: none;
 }
 
 #page--hotel .content__slider {
@@ -473,5 +482,9 @@ nav .nav__search button {
 
 .footer .footer--right {
   float: right;
+}
+
+.footer .footer--right a {
+  padding: 0 10px;
 }
 /*# sourceMappingURL=style.css.map */

@@ -13,7 +13,7 @@
   <nav>
     <div class="container">
       <div class="nav__brand nav--left"><a href="/">Travelin</a></div>
-      <div class="nav__search nav--right"><button><i class="fas fa-search"></i></button></div>
+      <div class="nav__search nav--right"><a href="#search"><i class="fas fa-search"></i></a></div>
     </div>
   </nav>
   <div class="slider">
@@ -23,10 +23,10 @@
   <div class="content">
     <div class="container">
       <div class="content__city">
-        <a href="#" class="content__city__item"><span>Jakarta</span></a>
-        <a href="#" class="content__city__item"><span>Jakarta</span></a>
-        <a href="#" class="content__city__item"><span>Jakarta</span></a>
-        <a href="#" class="content__city__item"><span>Jakarta</span></a>
+        <a href="city.html?city=jakarta" class="content__city__item" style="background-image: url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/08/29/17/jakarta-main-image.jpg?w968h681')"><span>Jakarta</span></a>
+        <a href="city.html?city=bali" class="content__city__item" style="background-image: url('')"><span>Bali</span></a>
+        <a href="city.html?city=semarang" class="content__city__item" style="background-image: url('http://cdn2.tstatic.net/jateng/foto/bank/images/wayang-jalan-pahlawan_20180306_110512.jpg')"><span>Semarang</span></a>
+        <a href="city.html?city=surabaya" class="content__city__item" style="background-image: url('https://www.goodnewsfromindonesia.id/uploads/post/large-surabaya-e5b46818b09a03a19c39137e32d22c1f.jpg')"><span>Surabaya</span></a>
       </div>
       <div class="content__list">
         <div class="content__list__nav">
@@ -34,7 +34,7 @@
             Sugested
           </div>
           <div class="content__list__nav--search">
-            <input type="text" placeholder="Search" class="nav--right nav--search--js">
+            <input type="text" placeholder="Search" class="nav--right nav--search--js" id="search">
           </div>
         </div>
         <div class="content__list__item--container"></div>

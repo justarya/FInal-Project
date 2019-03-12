@@ -1,128 +1,167 @@
 [
   {
-    "_id": "5c87b5bf0119c17811cb8a63",
-    "price": "828,102.33",
-    "picture": "https://picsum.photos/400/200/?random",
-    "name": "Twiist Hotel",
-    "address": "Loretto, Osage",
-    "about": "Sit ex ad quis ad excepteur ex veniam cupidatat duis dolor. Veniam amet dolore esse nulla. Id incididunt do aute nulla dolor officia culpa duis quis quis laboris est dolore qui.",
-    "rating": 3
+    "_id": "5c87d57fd43e032bae319f4a",
+    "price": "784,104.64",
+    "picture": "https://picsum.photos/200/300/?random",
+    "name": "Isotrack Hotel",
+    "address": "Davenport, Jakarta",
+    "about": "Deserunt reprehenderit occaecat amet ea non nostrud laboris sint labore laboris duis. Consequat voluptate non irure laboris voluptate non reprehenderit commodo est velit mollit. Ex do laboris duis ipsum aute proident duis anim cupidatat amet eiusmod reprehenderit exercitation voluptate. Anim dolor excepteur qui adipisicing mollit. Est pariatur in aliqua Lorem et qui consequat Lorem reprehenderit esse reprehenderit officia do duis. Dolore nisi deserunt officia ullamco nostrud magna anim mollit consequat deserunt.",
+    "rating": 4,
+    "facilities": [
+      "AC",
+      "Wifi",
+      "Pool"
+    ],
+    "city": "Bali"
   },
   {
-    "_id": "5c87b5bfc194e00ea2a9c222",
-    "price": "736,705.85",
-    "picture": "https://picsum.photos/400/200/?random",
-    "name": "Zidant Hotel",
-    "address": "Camptown, Yardville",
-    "about": "Fugiat nulla velit commodo amet magna. Sit officia occaecat eiusmod culpa sunt ea cupidatat pariatur ea. Magna reprehenderit proident laboris ullamco nostrud sunt nisi culpa consequat ullamco fugiat qui duis exercitation. Dolor laboris fugiat commodo duis dolor. Ex occaecat adipisicing veniam ullamco. Culpa tempor anim veniam amet incididunt quis mollit laborum et exercitation. Et occaecat mollit quis id anim ullamco magna non officia.",
-    "rating": 2
+    "_id": "5c87d57f91db28da30ff2fef",
+    "price": "667,013.70",
+    "picture": "https://picsum.photos/200/300/?random",
+    "name": "Uni Hotel",
+    "address": "Sparkill, Palembang",
+    "about": "Irure deserunt quis deserunt eu est ad. Irure pariatur aliqua irure aliquip ut quis sint non deserunt velit ex ex sit. Ad eiusmod proident eiusmod nulla ipsum cupidatat commodo irure veniam aliqua qui. Enim cupidatat tempor mollit veniam. Voluptate amet excepteur ex irure eiusmod nulla. Nostrud velit velit velit nisi eu reprehenderit laboris cillum id. Ex ex minim proident mollit amet voluptate dolore laboris anim ullamco id ut.",
+    "rating": 4,
+    "facilities": [
+      "AC",
+      "Wifi",
+      "Pool"
+    ],
+    "city": "Jakarta"
   },
   {
-    "_id": "5c87b5bf5616274a787ebc68",
-    "price": "377,201.58",
-    "picture": "https://picsum.photos/400/200/?random",
-    "name": "Aeora Hotel",
-    "address": "Kenmar, Clayville",
-    "about": "Laboris excepteur excepteur id sit. Nostrud do id consequat anim incididunt sunt quis id cupidatat. Dolore duis cillum veniam nisi culpa.",
-    "rating": 4
+    "_id": "5c87d57f062259a4245e0d77",
+    "price": "823,268.51",
+    "picture": "https://picsum.photos/200/300/?random",
+    "name": "Trasola Hotel",
+    "address": "Shasta, Jakarta",
+    "about": "Enim voluptate Lorem velit velit pariatur esse deserunt. Ad exercitation dolore ullamco excepteur. Qui labore in veniam eiusmod cupidatat quis nulla. Consequat amet Lorem id minim mollit incididunt commodo magna elit anim ea nulla. Exercitation eu laboris in quis. Lorem laborum nostrud consectetur in. Irure sint aliqua anim consectetur velit labore id elit dolore eu tempor laborum pariatur ut.",
+    "rating": 5,
+    "facilities": [
+      "AC",
+      "Wifi",
+      "Pool"
+    ],
+    "city": "Jakarta"
   },
   {
-    "_id": "5c87b5bfa101b655eb2c8656",
-    "price": "666,129.57",
-    "picture": "https://picsum.photos/400/200/?random",
-    "name": "Earthpure Hotel",
-    "address": "Fowlerville, Roland",
-    "about": "Tempor dolor aliqua ex nisi dolore excepteur eiusmod quis. Do mollit laborum cillum eu quis consectetur sit. Velit et minim consectetur deserunt occaecat laboris in laborum non exercitation ullamco. Esse culpa duis do nulla.",
-    "rating": 1
+    "_id": "5c87d58097ee1f0d0bbc98ee",
+    "price": "98,835.02",
+    "picture": "https://picsum.photos/200/300/?random",
+    "name": "Architax Hotel",
+    "address": "Elfrida, Semarang",
+    "about": "Aute laboris minim tempor quis sint sunt nostrud deserunt. Voluptate reprehenderit voluptate elit ex voluptate reprehenderit excepteur. Non sint quis veniam laborum velit minim. Cillum enim aute aliqua occaecat consequat reprehenderit enim mollit. Aute consectetur deserunt elit non commodo ex enim dolor dolore officia deserunt amet nostrud. Aliquip anim incididunt officia deserunt nulla occaecat cillum enim labore laboris ipsum reprehenderit nostrud. Ullamco aliqua cillum et laboris in in tempor consectetur nulla quis do.",
+    "rating": 3,
+    "facilities": [
+      "AC",
+      "Wifi",
+      "Pool"
+    ],
+    "city": "Bali"
   },
   {
-    "_id": "5c87b5bf630beca0f572025a",
-    "price": "935,188.90",
-    "picture": "https://picsum.photos/400/200/?random",
-    "name": "Exozent Hotel",
-    "address": "Dunlo, Maybell",
-    "about": "Ullamco quis nisi amet esse cillum quis labore ex irure velit. Cillum aliqua laborum velit voluptate culpa laborum deserunt labore. Tempor cupidatat ad do ad nisi exercitation veniam laborum reprehenderit aute non tempor tempor.",
-    "rating": 5
+    "_id": "5c87d580f724e469feb6be0c",
+    "price": "465,133.47",
+    "picture": "https://picsum.photos/200/300/?random",
+    "name": "Bittor Hotel",
+    "address": "Crayne, Bali",
+    "about": "Anim Lorem nulla est irure minim commodo adipisicing dolor sunt officia exercitation sint. Eu fugiat aliquip cupidatat non laborum Lorem aliquip. Labore minim dolor eiusmod aute cupidatat qui aliqua labore anim in nisi. Ipsum pariatur aliquip pariatur laborum cillum occaecat magna sit.",
+    "rating": 2,
+    "facilities": [
+      "AC",
+      "Wifi",
+      "Pool"
+    ],
+    "city": "Bali"
   },
   {
-    "_id": "5c87b5bfb2da2b6d30026da9",
-    "price": "225,854.44",
-    "picture": "https://picsum.photos/400/200/?random",
-    "name": "Bullzone Hotel",
-    "address": "Grapeview, Highland",
-    "about": "Irure adipisicing sint incididunt ad nisi est ea duis elit Lorem. Voluptate consequat irure anim sunt occaecat Lorem cupidatat ad officia eu. Consectetur est exercitation consequat minim qui tempor quis esse. Aliqua do non ut ut dolore commodo id sint irure sunt cillum minim esse enim. Sit eiusmod ullamco tempor consectetur sit eu ex laborum sit deserunt aliquip elit officia quis. Nulla magna commodo tempor pariatur ipsum Lorem culpa voluptate commodo. Sint incididunt eiusmod est est ut incididunt proident ex ex velit id enim nostrud.",
-    "rating": 4
+    "_id": "5c87d58031c179365424fa5e",
+    "price": "611,836.70",
+    "picture": "https://picsum.photos/200/300/?random",
+    "name": "Gynko Hotel",
+    "address": "Boonville, Semarang",
+    "about": "Non qui esse est quis Lorem. Veniam aliqua do velit exercitation quis dolore quis commodo pariatur ut ipsum deserunt officia. Est fugiat ex Lorem eu do nisi mollit. Sit Lorem incididunt ut sit qui.",
+    "rating": 3,
+    "facilities": [
+      "AC",
+      "Wifi",
+      "Pool"
+    ],
+    "city": "Jakarta"
   },
   {
-    "_id": "5c87b5bfd043113eac5fbd13",
-    "price": "494,581.15",
-    "picture": "https://picsum.photos/400/200/?random",
-    "name": "Koffee Hotel",
-    "address": "Bladensburg, Shelby",
-    "about": "Sunt nisi dolor occaecat amet aliquip ut occaecat minim. Ut ea pariatur dolor laborum nostrud eiusmod minim. Ex ad eu eu ea tempor veniam culpa. Cillum irure pariatur mollit eu laborum. Id laborum eu adipisicing ad exercitation nisi dolor elit voluptate deserunt. Quis exercitation sint commodo eiusmod commodo anim aliqua magna.",
-    "rating": 5
+    "_id": "5c87d58057c21417da7868f9",
+    "price": "970,914.25",
+    "picture": "https://picsum.photos/200/300/?random",
+    "name": "Anocha Hotel",
+    "address": "Maplewood, Jakarta",
+    "about": "Ullamco laboris laboris sunt enim tempor nulla velit qui. Proident occaecat deserunt nisi commodo consectetur labore id pariatur non cupidatat dolore consectetur. Dolor consectetur dolore anim et dolore nulla reprehenderit excepteur sit consequat irure.",
+    "rating": 1,
+    "facilities": [
+      "AC",
+      "Wifi",
+      "Pool"
+    ],
+    "city": "Jakarta"
   },
   {
-    "_id": "5c87b5bf99e63bbff1ca1a12",
-    "price": "250,201.65",
-    "picture": "https://picsum.photos/400/200/?random",
-    "name": "Phuel Hotel",
-    "address": "Linganore, Brazos",
-    "about": "Id nostrud quis voluptate elit nisi Lorem. Culpa incididunt officia Lorem id non culpa ad veniam incididunt sint. Eiusmod labore sint enim sit nulla Lorem dolore laborum. Lorem et consequat mollit culpa irure mollit ex occaecat do. Est Lorem ex magna Lorem consequat in dolor minim. Cillum veniam non enim deserunt elit ut anim pariatur et.",
-    "rating": 3
+    "_id": "5c87d580a85aa4778918d95a",
+    "price": "337,466.07",
+    "picture": "https://picsum.photos/200/300/?random",
+    "name": "Jetsilk Hotel",
+    "address": "Tuttle, Bali",
+    "about": "Dolore qui do culpa amet laboris Lorem consequat mollit. Id enim magna laboris consectetur voluptate occaecat tempor elit dolore aliquip aute ad ipsum. Commodo enim aute consequat incididunt amet. Anim qui ex tempor enim tempor. Laborum ullamco labore eu laborum et ad irure occaecat aute nisi Lorem tempor ut. In id ullamco excepteur ea laboris.",
+    "rating": 5,
+    "facilities": [
+      "AC",
+      "Wifi",
+      "Pool"
+    ],
+    "city": "Surabaya"
   },
   {
-    "_id": "5c87b5bff7007e007f0db112",
-    "price": "729,063.19",
-    "picture": "https://picsum.photos/400/200/?random",
-    "name": "Ecraze Hotel",
-    "address": "Nicholson, Celeryville",
-    "about": "Sunt exercitation culpa veniam reprehenderit in. Mollit ullamco ex aute enim occaecat cillum eu. Fugiat ullamco eiusmod non nisi magna mollit reprehenderit nostrud incididunt. Minim aliqua occaecat fugiat est ex ea aliqua nulla laboris consequat qui ad. Excepteur pariatur consequat culpa ut anim sint.",
-    "rating": 1
+    "_id": "5c87d58016968669189ff08f",
+    "price": "812,214.50",
+    "picture": "https://picsum.photos/200/300/?random",
+    "name": "Imkan Hotel",
+    "address": "Seymour, Bali",
+    "about": "Culpa sint dolore aliqua qui exercitation occaecat deserunt dolore aliquip cupidatat id quis laborum dolor. Incididunt aute excepteur do consectetur adipisicing aute eu. In duis aliqua laborum sunt ullamco ad enim.",
+    "rating": 2,
+    "facilities": [
+      "AC",
+      "Wifi",
+      "Pool"
+    ],
+    "city": "Surabaya"
   },
   {
-    "_id": "5c87b5bf99bee099cd86f922",
-    "price": "173,570.22",
-    "picture": "https://picsum.photos/400/200/?random",
-    "name": "Sustenza Hotel",
-    "address": "Deputy, Ironton",
-    "about": "Qui aute quis id consectetur eiusmod aliquip est excepteur irure ad. Ullamco eiusmod ad cupidatat adipisicing aliqua. Dolore ullamco est nisi elit mollit ipsum sit commodo et consequat.",
-    "rating": 3
+    "_id": "5c87d5808f8ef0374189a613",
+    "price": "648,269.82",
+    "picture": "https://picsum.photos/200/300/?random",
+    "name": "Velity Hotel",
+    "address": "Fredericktown, Surabaya",
+    "about": "Dolor aliqua consectetur aliqua culpa est commodo quis qui. Reprehenderit eu nostrud aute eiusmod laborum eu esse eu sit. Eu in officia ad nulla laborum esse amet velit adipisicing do.",
+    "rating": 5,
+    "facilities": [
+      "AC",
+      "Wifi",
+      "Pool"
+    ],
+    "city": "Palembang"
   },
   {
-    "_id": "5c87b5bfb0bddf919f1553dc",
-    "price": "74,723.67",
-    "picture": "https://picsum.photos/400/200/?random",
-    "name": "Knowlysis Hotel",
-    "address": "Wanship, Castleton",
-    "about": "Magna eu reprehenderit sunt eiusmod anim tempor cillum aliquip. Mollit aliquip ad veniam adipisicing amet velit consequat dolor irure nostrud laborum laborum esse. Exercitation cupidatat ex qui aliqua in ad nisi esse. Laboris amet consequat aliquip deserunt labore id cupidatat et aute fugiat ut esse. Non anim ad dolore aute. Incididunt eiusmod amet id sunt cupidatat elit nulla officia cupidatat veniam. Voluptate dolore Lorem ut et deserunt mollit fugiat est nisi voluptate proident in aute.",
-    "rating": 4
-  },
-  {
-    "_id": "5c87b5bfe50046e61e1bc026",
-    "price": "859,778.38",
-    "picture": "https://picsum.photos/400/200/?random",
-    "name": "Exotechno Hotel",
-    "address": "Edgewater, Joppa",
-    "about": "Sint commodo officia enim deserunt non ea pariatur. Pariatur eiusmod fugiat commodo minim dolor pariatur tempor. Occaecat magna deserunt adipisicing velit do magna aute eiusmod ex anim est eu. Minim commodo cupidatat mollit ipsum culpa consectetur. Dolor ex est irure ut ex. Sunt laborum officia voluptate cillum exercitation. Enim amet ipsum mollit tempor laboris consequat deserunt aute id mollit anim pariatur sint.",
-    "rating": 1
-  },
-  {
-    "_id": "5c87b5bfd52a72a4b6629be6",
-    "price": "500,392.84",
-    "picture": "https://picsum.photos/400/200/?random",
-    "name": "Chillium Hotel",
-    "address": "Caroline, Finzel",
-    "about": "Duis incididunt ex tempor adipisicing amet. Cillum et voluptate amet aliqua exercitation consequat tempor commodo. Magna dolore ullamco et quis consequat laborum Lorem minim est incididunt nostrud quis magna.",
-    "rating": 2
-  },
-  {
-    "_id": "5c87b5bfe05d15364836409b",
-    "price": "333,433.24",
-    "picture": "https://picsum.photos/400/200/?random",
-    "name": "Assitia Hotel",
-    "address": "Delwood, Freeburn",
-    "about": "Id adipisicing eiusmod in deserunt incididunt amet nostrud cillum sint est adipisicing in sit. Anim ad labore fugiat amet mollit ullamco consectetur aute minim aute fugiat. Consequat commodo labore adipisicing sunt excepteur voluptate labore aute incididunt anim nisi amet consequat. Dolor laboris laborum et tempor Lorem adipisicing nostrud magna est. Voluptate commodo proident ipsum irure Lorem anim magna. Eiusmod velit pariatur duis Lorem anim sunt duis pariatur id Lorem occaecat id sint.",
-    "rating": 5
+    "_id": "5c87d5805ea8fa1d206ae97c",
+    "price": "709,290.79",
+    "picture": "https://picsum.photos/200/300/?random",
+    "name": "Bluegrain Hotel",
+    "address": "Glasgow, Semarang",
+    "about": "Aliqua incididunt ipsum deserunt dolor aliquip aute anim ut labore. Qui cillum ipsum sunt commodo voluptate. Dolor mollit sint cillum id et labore et nulla. Exercitation adipisicing amet aute ut incididunt exercitation adipisicing est laborum consectetur laborum nulla reprehenderit.",
+    "rating": 4,
+    "facilities": [
+      "AC",
+      "Wifi",
+      "Pool"
+    ],
+    "city": "Palembang"
   }
 ]

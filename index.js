@@ -70,3 +70,6 @@ function loadHotel(){
     }
   });
 }
+function loadCity(){
+
+}
