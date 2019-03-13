@@ -2,22 +2,27 @@
   {
     "url":"jakarta",
     "name":"Jakarta",
-    "image":"https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/08/29/17/jakarta-main-image.jpg?w968h681"
+    "image":"assets/jakarta.jpg"
   },
   {
     "url":"bali",
     "name":"Bali",
-    "image":"http://static.asiawebdirect.com/m/bangkok/portals/bali-indonesia-com/homepage/first-time-bali/pagePropertiesImage/bali-first-time.jpg.jpg"
+    "image":"assets/bali.jpg"
   },
   {
     "url":"semarang",
     "name":"Semarang",
-    "image":"http://cdn2.tstatic.net/jateng/foto/bank/images/wayang-jalan-pahlawan_20180306_110512.jpg"
+    "image":"assets/semarang.jpg"
   },
   {
     "url":"surabaya",
     "name":"Surabaya",
-    "image":"https://www.goodnewsfromindonesia.id/uploads/post/large-surabaya-e5b46818b09a03a19c39137e32d22c1f.jpg"
+    "image":"assets/surabaya.jpg"
+  },
+  {
+    "url":"palembang",
+    "name":"Palembang",
+    "image":"assets/palembang.jpg"
   }
   
 ]

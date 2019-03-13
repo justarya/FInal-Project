@@ -22,7 +22,7 @@ $(document).ready(function(){
                 star += '<i class="fa fa-star"></i>';
               }
               var html = '';
-              html += '<div class="col-3">\
+              html += '<div class="col-3 col-md-4 col-sm-6 col-sm-12">\
                 <a href="'+url+'/hotel.html?id='+element._id+'" class="content__list__item">\
                   <div class="content__list__item--image" style="background-image: url(\''+element.picture+'\')"></div>\
                   <div class="content__list__item--title">\
@@ -55,7 +55,7 @@ function loadHotel(){
         for(var i=0; i<element.rating; i++){
           star += '<i class="fa fa-star"></i>';
         }
-        html += '<div class="col-3">\
+        html += '<div class="col-3 col-md-4 col-sm-6 col-xs-12">\
           <a href="'+url+'/hotel.html?id='+element._id+'" class="content__list__item">\
             <div class="content__list__item--image" style="background-image: url(\''+element.picture+'\')"></div>\
             <div class="content__list__item--title">\

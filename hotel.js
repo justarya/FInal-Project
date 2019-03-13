@@ -52,6 +52,9 @@ function loadHotel(){
         });
         var price = element.price.replace(/,/g , '');
         $('.content__booking--price__number--js').html("Rp. "+element.price);
+        $('.content__booking__form--idhotel--js').attr('value',element._id);
+        $('.content__booking__form--namahotel--js').attr('value',element.name);
+        $('.content__booking--price__number--js').html("Rp. "+element.price);
         $('.content__booking--price__number--js').attr("data-price",price);
         // $.each(element.picture, function(i, element2){
         //   var slider = '<div class="slider__item" style="background-image: url(\''+element2.image+'\'"></div>'
